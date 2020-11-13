@@ -1,4 +1,4 @@
-See live demo on [https://flyingsonu122.netlify.app/](https://flyingsonu122.netlify.app/)
+See live demo  [https://flyingsonu122.netlify.app/](https://flyingsonu122.netlify.app/)
 
 ### TL;DR
 

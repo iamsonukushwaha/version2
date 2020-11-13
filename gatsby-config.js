@@ -5,7 +5,7 @@ module.exports = {
     title: 'Sonu Kushwaha',
     description:
       'Sonu kumar kushwaha - computer science student ',
-    siteUrl: 'https://blog-minimal.netlify.app/', // No trailing slash allowed!
+    siteUrl: 'https://flyingsonu122.netlify.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@sonukumarkush12',
   },
