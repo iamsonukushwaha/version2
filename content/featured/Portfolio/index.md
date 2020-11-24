@@ -8,6 +8,11 @@ tech:
   - Github
   - Github Pages
   - Bootstrap
+  - Netlify
+  - HTML
+  - JavaScript
+  - CSS
+  - Bootstrap
   -
 showInProjects: true
 ---

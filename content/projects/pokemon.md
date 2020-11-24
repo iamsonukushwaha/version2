@@ -4,10 +4,11 @@ title: 'Pokemon'
 github: 'https://github.com/flyingsonu122/pokemon'
 external: 'https://flyingsonu122.github.io/pokemon/'
 tech:
-  - Github
+  - JavaScript
   - API
+  - Bootstrap
   - HTML
-  - Netlify
+  - CSS
 company: ''
 showInProjects: true
 ---

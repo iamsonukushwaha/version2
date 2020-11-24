@@ -4,10 +4,11 @@ title: 'Flowers Search '
 github: 'https://github.com/flyingsonu122/Search-Flowers'
 external: 'https://flyingsonu122.github.io/Search-Flowers/'
 tech:
-  - Github
+  - JavaScript
   - API
+  - Bootstrap
   - HTML
-  - Netlify
+  - CSS
 company: ''
 showInProjects: true
 ---

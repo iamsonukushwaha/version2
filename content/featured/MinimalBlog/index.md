@@ -8,6 +8,10 @@ tech:
   - Netlify
   - HTML
   - Github
+  - JavaScript
+  - CSS
+  - API
+  - Bootstrap
 showInProjects: true
 ---
 

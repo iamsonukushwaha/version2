@@ -7,7 +7,8 @@ tech:
   - Github
   - API
   - HTML
-  - Netlify
+  - CSS
+  - JavaScript
 company: ''
 showInProjects: true
 ---

@@ -4,10 +4,12 @@ title: 'Portfolio'
 github: 'https://github.com/flyingsonu122/flyingsonu122.github.io'
 external: 'https://flyingsonu122.github.io'
 tech:
-  - Netlify
-  - Github
+  - Bootstrap
+  - HTML
+  - CSS
+  - JavaScript
 company: ''
 showInProjects: true
 ---
 
-Personal portfolio hosted on github pages.
+Portfolio Website Version 1 hosted using GitHub Pages. Updates coming soon!

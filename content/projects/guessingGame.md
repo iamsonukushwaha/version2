@@ -4,10 +4,11 @@ title: 'Guessing Game'
 github: 'https://github.com/flyingsonu122/guessing-game'
 external: 'https://flyingsonu122.github.io/guessing-game/'
 tech:
-  - Github
-  - API
   - HTML
+  - JavaScript
   - Netlify
+  - CSS
+  - Bootstrap
 company: ''
 showInProjects: true
 ---

@@ -4,10 +4,11 @@ title: 'Insta Feed'
 github: 'https://github.com/flyingsonu122/insta-feed'
 external: 'https://flyingsonu122.github.io/insta-feed/'
 tech:
-  - Github
-  - API
+  - Bootstrap
   - HTML
   - Netlify
+  - JavaScript
+  - CSS
 company: ''
 showInProjects: true
 ---

@@ -4,10 +4,10 @@ title: 'Quotes'
 github: 'https://github.com/flyingsonu122/quote-of-the-day'
 external: 'https://flyingsonu122.github.io/quote-of-the-day/'
 tech:
-  - Github
   - API
   - HTML
-  - Netlify
+  - CSS
+  - JavaScript
 company: ''
 showInProjects: true
 ---
