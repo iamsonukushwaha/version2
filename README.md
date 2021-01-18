@@ -1,3 +1,26 @@
+<div align="center">
+  <img alt="Logo" src="https://raw.githubusercontent.com/flyingsonu122/flyingsonu122.github.io/main/src/images/logo.png?token=AMHHTFH6TESKSO6DNH524KTABY5PM" width="100" />
+</div>
+
+<h1 align="center">
+  Portfolio Website Version 2
+</h1>
+<p align="center">
+  The second iteration of <a href="https://flyingsonu122.github.io/" target="_blank">flyingsonu122.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+</p>
+
+
+<p align="center">
+  Previous iterations:
+  <a href="https://flyingsonu122.github.io/flyingsonu122.github.io-v1/" target="_blank">Version 1</a>
+</p>
+
+<div align="center">
+  <img alt="Demo" src="https://raw.githubusercontent.com/flyingsonu122/flyingsonu122.github.io/main/src/images/demo.png?token=AMHHTFAM4Y7JZZI3TAYVWH3ABY5IE" />
+</div>
+
+<br/>
+
 See live demo  [https://flyingsonu122.netlify.app/](https://flyingsonu122.netlify.app/)
 
 ### TL;DR

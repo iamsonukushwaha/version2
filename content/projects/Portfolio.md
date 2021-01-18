@@ -1,8 +1,8 @@
 ---
 date: '2020-08-01'
 title: 'Portfolio'
-github: 'https://github.com/flyingsonu122/flyingsonu122.github.io'
-external: 'https://flyingsonu122.github.io'
+github: 'https://github.com/flyingsonu122/flyingsonu122.github.io-v1'
+external: 'https://flyingsonu122.github.io/flyingsonu122.github.io-v1/'
 tech:
   - Bootstrap
   - HTML
