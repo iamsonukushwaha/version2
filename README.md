@@ -5,9 +5,6 @@
 <h1 align="center">
   Portfolio Website Version 2
 </h1>
-<p align="center">
-  The second iteration of <a href="https://flyingsonu122.netlify.app/" target="_blank">flyingsonu122.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
-</p>
 
 <p align="center">
   Previous iterations:
