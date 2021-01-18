@@ -1,11 +1,11 @@
 {
-  "name": "v4",
+  "name": "version2",
   "description": "Personal Website V2",
   "version": "1.0.0",
   "author": "Sonu kumar kushwaha <flyingsonu736@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/flyingsonu122/flyingsonu122.github.io"
+    "url": "https://github.com/flyingsonu122/version2"
   },
   "keywords": [
     "gatsby"
