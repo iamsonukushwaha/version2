@@ -19,7 +19,11 @@
 
 ## See live demo on _[flyingsonu122.netlify.app](https://flyingsonu122.netlify.app/)_
 
+<br/>
+
 ### Watch Video Demo on **[ YouTube](https://youtu.be/RUZOTBTuwfk)**
+
+<br/>
 
 ### TL;DR
 
