@@ -12,5 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-
-You can get Quote of the Day Daily .
+You can get **Quote of the Day** Daily .
