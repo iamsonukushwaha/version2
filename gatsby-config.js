@@ -3,8 +3,7 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Sonu Kushwaha',
-    description:
-      'Sonu kumar kushwaha - computer science student ',
+    description: 'Sonu kumar kushwaha – A collection of everything that goes in my head',
     siteUrl: 'https://flyingsonu122.netlify.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@sonukumarkush12',
@@ -151,7 +150,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-45666519-2',
+        trackingId: 'G-64FB06BX8W',
       },
     },
   ],

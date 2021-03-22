@@ -7,20 +7,20 @@ module.exports = {
       url: 'https://github.com/flyingsonu122',
     },
     {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/sonukumarkushwaha/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/flyingsonu736',
-    },
-    {
       name: 'Instagram',
       url: 'https://www.instagram.com/flyingsonu736/',
     },
     {
       name: 'Twitter',
       url: 'https://twitter.com/sonukumarkush12',
+    },
+    {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/sonukumarkushwaha/',
+    },
+    {
+      name: 'Codepen',
+      url: 'https://codepen.io/flyingsonu736',
     },
   ],
 
