@@ -17,7 +17,7 @@
 
 <br/>
 
-## See live demo on [flyingsonu122.netlify.app](https://flyingsonu122.netlify.app/)\_
+## See live demo on [flyingsonu122.netlify.app](https://flyingsonu122.netlify.app/)
 
 <br/>
 
