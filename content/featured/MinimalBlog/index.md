@@ -7,13 +7,10 @@ external: 'https://blog-minimal.netlify.app/'
 tech:
   - Netlify
   - HTML
-  - Github
-  - JavaScript
+  - Gatsby
   - CSS
-  - API
   - Bootstrap
 showInProjects: true
 ---
-
 
 A minimal blog made with Gatsby framework and hosted on Netlify.
