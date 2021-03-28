@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-I have made this VS Code theme for myself, if you like it please Install and use it
+I have made this VS Code theme for myself. please check out, if you like it please Install and use it.
