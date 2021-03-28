@@ -2,14 +2,20 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/flyingsonu122/version2/main/src/images/logo.png" width="100" />
 </div>
 
+<br/>
+
 <h1 align="center">
   Portfolio Website Version 2
 </h1>
 
+<br/>
+
 <p align="center">
   Previous iterations:
-  <a href="https://flyingsonu122.github.io/" target="_blank">Version 1</a>
+  <a href="https://flyingsonu122.github.io/" target="_blank">V1</a>
 </p>
+
+<br/>
 
 <div align="center">
   <img alt="Demo" src="https://raw.githubusercontent.com/flyingsonu122/version2/main/src/images/demo.png" />
