@@ -30,7 +30,7 @@
 
 -->
 
-## See live demo  [https://sonukushwaha.live](https://sonukushwaha.live/)
+### live demo [https://sonukushwaha.live](https://sonukushwaha.live/)
 
 
 <br/><br/>
@@ -43,7 +43,7 @@
 
 Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
-## 🛠 Installation & Set Up
+### 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
 
@@ -69,7 +69,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
    npm start
    ```
 
-## 🚀 Building and Running for Production
+### 🚀 Building and Running for Production
 
 1. Generate a full static production build
 
@@ -83,7 +83,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
    npm run serve
    ```
 
-## 🎨 Color Reference
+### 🎨 Color Reference
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
