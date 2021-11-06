@@ -18,7 +18,6 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/sonukumarkushwaha/',
     },
-    
   ],
 
   navLinks: [
