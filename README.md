@@ -23,14 +23,13 @@
 
 <br/>
 
-<!--
+
 
 ## See live demo on [flyingsonu122.netlify.app](https://flyingsonu122.netlify.app/)
 
+OR
 
--->
-
-## live demo [https://sonukushwaha.live](https://sonukushwaha.live/)
+##  [https://sonukushwaha.live](https://sonukushwaha.live/)
 
 
 <br/><br/>
