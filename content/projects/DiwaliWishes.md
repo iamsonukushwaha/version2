@@ -1,8 +1,8 @@
 ---
 date: '2020-11-15'
 title: 'Diwali Wishes'
-github: 'https://github.com/flyingsonu122/Diwali-Wishes'
-external: 'https://flyingsonu122.github.io/Diwali-Wishes/'
+github: 'https://github.com/flyingsonu122/diwali-wishes'
+external: 'https://flyingsonu122.github.io/diwali-wishes/'
 tech:
   - Github
   - HTML
