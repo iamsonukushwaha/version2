@@ -2,7 +2,7 @@
 date: '2020-11-22'
 title: 'Links List'
 github: 'https://github.com/flyingsonu122/links-list'
-external: 'https://links-list-app.herokuapp.com/'
+external: 'https://www.sonu.live/links-list'
 tech:
   - Express
   - json-server
