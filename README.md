@@ -25,6 +25,10 @@
 
 ## See live demo on [flyingsonu122.netlify.app](https://flyingsonu122.netlify.app/)
 
+OR
+
+## [https://sonukushwaha.live](https://sonukushwaha.live/)
+
 <br/><br/>
 
 ### Watch Video Demo on **[YouTube](https://youtu.be/RUZOTBTuwfk)**
