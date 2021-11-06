@@ -18,10 +18,7 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/sonukumarkushwaha/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/flyingsonu736',
-    },
+    
   ],
 
   navLinks: [
