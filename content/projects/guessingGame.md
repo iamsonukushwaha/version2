@@ -7,10 +7,10 @@ tech:
   - HTML
   - JavaScript
   - Netlify
-  - CSS
-  - Bootstrap
+
+ 
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 
