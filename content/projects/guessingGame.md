@@ -7,8 +7,6 @@ tech:
   - HTML
   - JavaScript
   - Netlify
-
- 
 company: ''
 showInProjects: false
 ---
