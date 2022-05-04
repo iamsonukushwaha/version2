@@ -1,6 +1,6 @@
 ---
 date: '2022-04-11'
-title: 'Scholar Trainee at Wipro'
+title: 'Scholar Trainee at '
 company: 'Wipro Limited'
 location: 'Tamilnadu, India'
 range: 'April 2022 - Present'
