@@ -13,3 +13,5 @@ showInProjects: true
 
 Tarana - Best Music Player
 
+Web App to listen various genre songs
+
