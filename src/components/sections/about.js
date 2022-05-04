@@ -141,7 +141,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Sonu, a computer science student from Gopalganj, Bihar,India.</p>
+            <p>Hello! I'm Sonu Kumar Kushwaha, a computer science student from Gopalganj, Bihar,India.</p>
 
             <p>
               I enjoy creating things that live on the internet, whether that be websites,
