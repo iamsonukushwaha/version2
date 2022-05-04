@@ -2,7 +2,7 @@
 date: '2021-04-15'
 title: 'URL Shortner'
 github: 'https://github.com/flyingsonu122/'
-external: 'http://www.sonu.live/u/'
+external: 'https://flyingsonu122.github.io/u/'
 tech:
   - Python
   - Heroku
