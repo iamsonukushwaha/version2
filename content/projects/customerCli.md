@@ -2,7 +2,7 @@
 date: '2020-11-11'
 title: 'Customer cli'
 github: 'https://github.com/flyingsonu122/customer-cli'
-external: 'https://github.com/flyingsonu122/customer-cli'
+external: 'https://singlebucks.blogspot.com/'
 tech:
   - JavaScript
   - nodejs
