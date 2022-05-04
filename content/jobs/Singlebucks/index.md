@@ -4,7 +4,7 @@ title: 'Admin '
 company: 'Singlebucks'
 location: 'Patna, IN'
 range: 'May - 2021'
-url: 'https://www.singlebucks.live'
+url: 'https://singlebucks.blogspot.com'
 ---
 
 - Maintaining all activities 
