@@ -6,7 +6,7 @@ module.exports = {
     description: 'Sonu kumar kushwaha – A collection of everything that goes in my head',
     siteUrl: 'https://flyingsonu122.netlify.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@sonukumarkush12',
+    twitterUsername: '@iamsonukushwaha',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
