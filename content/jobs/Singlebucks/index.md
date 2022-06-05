@@ -1,11 +1,13 @@
 ---
 date: '2021-05-11'
-title: 'Admin '
+title: 'Administrator'
 company: 'Singlebucks'
-location: 'Patna, India'
-range: 'May - 2021'
+location: 'Gopalganj Bihar, India'
+range: 'May 2019 - Present'
 url: 'https://singlebucks.blogspot.com'
 ---
 
+
+- Blogging related to tech and general topics
 - Maintaining all activities 
 - Building open source apps and projects
