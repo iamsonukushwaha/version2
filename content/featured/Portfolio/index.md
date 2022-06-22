@@ -1,6 +1,6 @@
 ---
 date: '4'
-title: 'Portfolio'
+title: 'Portfolio Website'
 cover: './portfolio.png'
 github: 'https://github.com/flyingsonu122/v1'
 external: 'https://flyingsonu122.github.io/v1'
