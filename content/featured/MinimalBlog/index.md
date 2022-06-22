@@ -3,13 +3,10 @@ date: '2'
 title: 'Minimal Blog'
 cover: './minimalBlog.png'
 github: 'https://github.com/flyingsonu122/minimalBlog'
-external: 'https://blog-minimal.netlify.app/'
+external: 'https://blog-minimal.netlify.app/about'
 tech:
   - Netlify
-  - HTML
   - Gatsby
-  - CSS
-  - Bootstrap
 showInProjects: true
 ---
 
