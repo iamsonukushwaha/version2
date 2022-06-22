@@ -2,8 +2,8 @@
 date: '4'
 title: 'Portfolio'
 cover: './portfolio.png'
-github: 'https://github.com/flyingsonu122/flyingsonu122.github.io'
-external: 'https://flyingsonu122.github.io/'
+github: 'https://github.com/flyingsonu122/v1'
+external: 'https://flyingsonu122.github.io/v1'
 tech:
   - Bootstrap
   - Netlify
