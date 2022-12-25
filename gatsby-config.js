@@ -4,9 +4,9 @@ module.exports = {
   siteMetadata: {
     title: 'Sonu Kushwaha',
     description: 'Sonu kumar kushwaha – A collection of everything that goes in my head',
-    siteUrl: 'https://www.sonukushwaha.live', // No trailing slash allowed!
+    siteUrl: 'https://sonukushwaha.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@sonukumarkush12',
+    twitterUsername: '@iamsonukushwaha',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
