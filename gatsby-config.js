@@ -2,8 +2,8 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Sonu Kushwaha',
-    description: 'Sonu kumar kushwaha – A collection of everything that goes in my head',
+    title: 'Sonu Kumar Kushwaha',
+    description: 'Sonu Kumar Kushwaha – A collection of everything that goes in my head',
     siteUrl: 'https://sonukushwaha.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@iamsonukushwaha',
