@@ -7,4 +7,5 @@ range: 'April 2022 - Present'
 url: 'https://singlebucks.blogspot.com/p/scholar-trainee-at-wipro.html'
 ---
 
-- Working in **Wipro Limited** as Scholar Trainee - work integrated learning program- CIS DATACENTER 
+- Linux Adminstrator at **Wipro Limited**
+- Working as Scholar Trainee - work integrated learning program- CIS DATACENTER 
