@@ -10,4 +10,4 @@ url: 'https://singlebucks.blogspot.com'
 
 - Blogging related to tech and general topics
 - Maintaining all activities 
-- Building open source apps and projects
+- Building open source apps and [projects](https://singlebucks.blogspot.com)
