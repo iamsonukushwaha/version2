@@ -16,10 +16,6 @@
 
 <br/>
 
-<div align="center">
-  <img alt="Demo" src="https://raw.githubusercontent.com/flyingsonu122/version2/main/src/images/demo.png" />
-</div>
-
 <br/>
 
 
