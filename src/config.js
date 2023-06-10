@@ -8,7 +8,7 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/flyingsonu736/',
+      url: 'https://www.instagram.com/flyingsonu736',
     },
     {
       name: 'Twitter',
@@ -16,7 +16,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/sonukumarkushwaha/',
+      url: 'https://www.linkedin.com/in/sonukumarkushwaha',
     },
   ],
 
