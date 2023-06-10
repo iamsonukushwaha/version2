@@ -3,7 +3,7 @@ date: '3'
 title: 'nextjs-blog'
 cover: './NextjsSample.png'
 github: 'https://github.com/flyingsonu122/nextjs-blog'
-external: 'https://nextjs-blog-navy-one.vercel.app/'
+external: 'https://singlebucks.blogspot.com'
 tech:
   - Next.js
   - JavaScript
