@@ -1,13 +1,13 @@
 ---
 date: '2021-05-11'
-title: 'Administrator'
+title: 'Author at '
 company: 'Singlebucks'
 location: 'Gopalganj Bihar, India'
-range: 'May 2019 - Present'
+range: 'June 2019 - Present'
 url: 'https://singlebucks.blogspot.com'
 ---
 
 
-- Blogging related to tech and general topics
-- Maintaining all activities 
-- Building open source apps and [projects](https://singlebucks.blogspot.com)
+- Authoring compelling articles on technology and general subjects.
+- Excelling in multitasking and overseeing various tasks.
+- Creating impactful open source apps and projects, showcased [here](https://singlebucks.blogspot.com).
