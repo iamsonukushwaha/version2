@@ -53,8 +53,6 @@ const Hero = () => {
   const four = (
     <p>
       I'm a computer science student, building websites, applications, and everything in between.
-      <br/><br/>
-      Currently working as a Linux Admin at <a href='https://singlebucks.blogspot.com/2022/06/joined-wipro-limited-as-scholar-trainee.html'>Wipro</a>
     </p>
   );
   const five = (
