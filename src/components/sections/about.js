@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Linux', 'Node.js', 'Java'];
+  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,18 +141,18 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Sonu Kumar Kushwaha, a computer science student from Gopalganj, Bihar,India.</p>
+            <p>Experienced Linux System Administrator and M. Tech Computing Systems and Infrastructure student at BITS Pilani.</p>
+            <p>Skilled in managing and maintaining Linux systems, with a solid background in system administration. </p>
+            <p>Completed BCA from Aryabhata Knowledge University Patna, showcasing a strong foundation in computer science.</p>
+            <p>Passionate about technology and continuously exploring new projects and opportunities.</p>
+            <p>I have a keen interest in open-source development and have contributed to various projects, 
+    which can be found on my GitHub profile: https://github.com/flyingsonu122.</p>
 
-            <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
-            </p>
+            
 
-            <p>
-              Passionate reader. Eager to find the root cause of problems. For fun, I like to ride my motorcycle and follow my home cricket team.
-            </p>
-
+            
+            <p>Additionally, I maintain a personal website where I share my thoughts and experiences: https://singlebucks.blogspot.com</p>
+            <p>I am open to new opportunities and collaborations, so don't hesitate to connect with me on LinkedIn https://www.linkedin.com/in/sonukumarkushwaha</p>
             <p>Here are a few technologies I've been working with recently:</p>
           </div>
 
