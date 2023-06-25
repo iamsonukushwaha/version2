@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '2023-04-25'
 title: 'Portfolio Website'
 cover: './portfolio.png'
 github: 'https://github.com/flyingsonu122/v1'
