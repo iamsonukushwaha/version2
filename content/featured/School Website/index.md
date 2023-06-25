@@ -1,6 +1,6 @@
 ---
-date: '2023-05-25'
-title: 'School Website & Admission Management System using Firebase'
+date: '2'
+title: 'Admission Management System '
 cover: './ggps.png'
 github: 'https://github.com/flyingsonu122/ggpsarwal'
 external: 'https://flyingsonu122.github.io/ggpsarwal'
@@ -10,7 +10,4 @@ tech:
 showInProjects: true
 ---
 
-- School Website & Admission Management System using Firebase
-- Have Sign Up, Login with email/password and Google
-- Payment system
-- Student Details and Alumni Details
+Our School Website & Admission Management System powered by Firebase offers a seamless user experience, including sign up, login, payment integration, student details, and alumni management, all in one comprehensive platform.
