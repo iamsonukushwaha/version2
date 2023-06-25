@@ -1,5 +1,5 @@
 ---
-date: '2022-06-25'
+date: '1'
 title: 'Minimal Blog'
 cover: './minimalBlog.png'
 github: 'https://github.com/flyingsonu122/minimalBlog'
