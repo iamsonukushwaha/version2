@@ -1,14 +1,11 @@
 ---
-date: '3'
-title: 'nextjs-blog'
+date: '2023-01-25'
+title: 'Nextjs blog'
 cover: './NextjsSample.png'
 github: 'https://github.com/flyingsonu122/nextjs-blog'
 external: 'https://singlebucks.blogspot.com'
 tech:
   - Next.js
-  - JavaScript
-  - CSS
-  - Bootstrap
 showInProjects: true
 ---
 
