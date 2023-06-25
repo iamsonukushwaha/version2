@@ -1,6 +1,6 @@
 ---
 date: '5'
-title: 'flyingsonu dark theme'
+title: 'vs code dark theme'
 cover: './theme.png'
 github: 'https://github.com/flyingsonu122/flyingsonu-theme'
 external: 'https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark'
