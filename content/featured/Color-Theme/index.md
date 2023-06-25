@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '2023-03-25'
 title: 'vs code dark theme'
 cover: './theme.png'
 github: 'https://github.com/flyingsonu122/flyingsonu-theme'
