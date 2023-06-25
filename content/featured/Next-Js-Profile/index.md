@@ -1,5 +1,5 @@
 ---
-date: '2023-01-25'
+date: '2'
 title: 'Nextjs blog'
 cover: './NextjsSample.png'
 github: 'https://github.com/flyingsonu122/nextjs-blog'
