@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2023-05-25'
 title: 'School Website & Admission Management System using Firebase'
 cover: './ggps.png'
 github: 'https://github.com/flyingsonu122/ggpsarwal'
