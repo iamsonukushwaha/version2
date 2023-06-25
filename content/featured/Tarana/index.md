@@ -1,5 +1,5 @@
 ---
-date: '6'
+date: '2023-06-25'
 title: 'Tarana'
 cover: './tarana.png'
 github: 'https://github.com/flyingsonu122/tarana'
@@ -13,5 +13,5 @@ showInProjects: true
 
 Tarana - Best Music Player
 
-Web App to listen various genre songs
+Tarana is a music player that offers features such as shuffle, song sharing, themed playlists, a variety of genres, search, and filters.
 
