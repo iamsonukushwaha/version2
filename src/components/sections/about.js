@@ -141,7 +141,7 @@ const About = () => {
             <div className="inner">
                 <StyledText>
                     <div>
-                        <p>Linux System Administrator at <a href="https://singlebucks.blogspot.com/2022/06/joined-wipro-limited-as-scholar-trainee.html" target="_blank" rel="noopener noreferrer">Wipro</a> and M. Tech Computing Systems and Infrastructure student at BITS
+                        <p>Linux System Administrator at <a href="https://singlebucks.blogspot.com/2022/06/joined-wipro-limited-as-scholar-trainee.html" target="_blank" rel="noopener noreferrer">Wipro</a> and pursuing M. Tech Computing Systems and Infrastructure student at BITS
                             Pilani.</p>
                         <p>Completed BCA from Aryabhata Knowledge University Patna, showcasing a strong foundation in computer science.
                         </p>
