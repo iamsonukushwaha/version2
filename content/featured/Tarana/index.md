@@ -1,5 +1,5 @@
 ---
-date: '2023-06-25'
+date: '1'
 title: 'Tarana'
 cover: './tarana.png'
 github: 'https://github.com/flyingsonu122/tarana'
