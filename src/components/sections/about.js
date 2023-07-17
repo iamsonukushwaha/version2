@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)',  'React',  'Java', 'Python'];
+  const skills = ['JavaScript (ES6+)', 'React', 'Java', 'Python'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,11 +141,11 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Linux Systems Administrator at <a href="https://singlebucks.blogspot.com/2022/06/joined-wipro-limited-as-scholar-trainee.html" target="_blank" rel="noopener noreferrer">Wipro </a> and pursuing M. Tech Computing Systems and Infrastructure student at BITS
-              Pilani.</p>
+            <p>Linux Systems Administrator at <a href="https://singlebucks.blogspot.com/2022/06/joined-wipro-limited-as-scholar-trainee.html" target="_blank" rel="noopener noreferrer">Wipro </a> and pursuing M . Tech in Computing Systems and Infrastructure  at <a href="https://singlebucks.blogspot.com/2023/06/education.html" target="_blank" rel="noopener noreferrer">BITS
+              Pilani</a>  </p>
             <p>Completed <a href="https://singlebucks.blogspot.com/2023/07/bachelors-degree-in-computer-application.html" target="_blank" rel="noopener noreferrer">BCA </a> from Aryabhata Knowledge University Patna, showcasing a strong foundation in computer science.
             </p>
-            <p>I have a keen interest in open-source development and have contributed to various projects,
+            <p>I have contributed to various projects,
               which can be found on my <a href="https://github.com/flyingsonu122" target="_blank" rel="noopener noreferrer">GitHub</a> profile.</p>
             <p>Additionally, I maintain a <a href="https://singlebucks.blogspot.com" target="_blank" rel="noopener noreferrer">personal website</a> where I share my thoughts and experiences:
             </p>
