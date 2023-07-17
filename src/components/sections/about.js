@@ -114,7 +114,7 @@ const StyledPic = styled.div`
 `;
 
 const About = () => {
-    const data = useStaticQuery(graphql`
+  const data = useStaticQuery(graphql`
     query {
       avatar: file(sourceInstanceName: { eq: "images" }, relativePath: { eq: "me.jpg" }) {
         childImageSharp {
@@ -126,50 +126,48 @@ const About = () => {
     }
   `);
 
-    const revealContainer = useRef(null);
+  const revealContainer = useRef(null);
 
-    useEffect(() => {
-        sr.reveal(revealContainer.current, srConfig());
-    }, []);
+  useEffect(() => {
+    sr.reveal(revealContainer.current, srConfig());
+  }, []);
 
-    const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Node.js', 'SQL', 'C++', 'Java'];
 
-    return (
-        <StyledAboutSection id="about" ref={revealContainer}>
-            <h2 className="numbered-heading">About Me</h2>
+  return (
+    <StyledAboutSection id="about" ref={revealContainer}>
+      <h2 className="numbered-heading">About Me</h2>
 
-            <div className="inner">
-                <StyledText>
-                    <div>
-                        <p>Linux System Administrator at <a href="https://singlebucks.blogspot.com/2022/06/joined-wipro-limited-as-scholar-trainee.html" target="_blank" rel="noopener noreferrer">Wipro</a> and pursuing M. Tech Computing Systems and Infrastructure student at BITS
-                            Pilani.</p>
-                        <p>Completed <a href="https://singlebucks.blogspot.com/2023/07/bachelors-degree-in-computer-application.html" target="_blank" rel="noopener noreferrer">BCA</a> 
-                          from Aryabhata Knowledge University Patna, showcasing a strong foundation in computer science.
-                        </p>
-                        <p>Passionate about technology and continuously exploring new projects and opportunities.</p>
-                        <p>I have a keen interest in open-source development and have contributed to various projects,
-                            which can be found on my <a href="https://github.com/flyingsonu122" target="_blank" rel="noopener noreferrer">GitHub</a> profile.</p>
+      <div className="inner">
+        <StyledText>
+          <div>
+            <p>Linux Systems Administrator at <a href="https://singlebucks.blogspot.com/2022/06/joined-wipro-limited-as-scholar-trainee.html" target="_blank" rel="noopener noreferrer">Wipro </a> and pursuing M. Tech Computing Systems and Infrastructure student at BITS
+              Pilani.</p>
+            <p>Completed <a href="https://singlebucks.blogspot.com/2023/07/bachelors-degree-in-computer-application.html" target="_blank" rel="noopener noreferrer">BCA </a>
+              from Aryabhata Knowledge University Patna, showcasing a strong foundation in computer science.
+            </p>
+            <p>I have a keen interest in open-source development and have contributed to various projects,
+              which can be found on my <a href="https://github.com/flyingsonu122" target="_blank" rel="noopener noreferrer">GitHub</a> profile.</p>
+            <p>Additionally, I maintain a <a href="https://singlebucks.blogspot.com" target="_blank" rel="noopener noreferrer">personal website</a> where I share my thoughts and experiences:
+            </p>
+            <p>I am open to new opportunities and collaborations, so don't hesitate to connect with me on <a href="https://www.linkedin.com/in/sonukumarkushwaha" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            </p>
+            <p>Here are a few technologies I've been working with recently:</p>
+          </div>
 
-                        <p>Additionally, I maintain a <a href="https://singlebucks.blogspot.com" target="_blank" rel="noopener noreferrer">personal website</a> where I share my thoughts and experiences:
-                        </p>
-                        <p>I am open to new opportunities and collaborations, so don't hesitate to connect with me on <a href="https://www.linkedin.com/in/sonukumarkushwaha" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-                        </p>
-                        <p>Here are a few technologies I've been working with recently:</p>
-                    </div>
+          <ul className="skills-list">
+            {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
+          </ul>
+        </StyledText>
 
-                    <ul className="skills-list">
-                        {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-                    </ul>
-                </StyledText>
-
-                <StyledPic>
-                    <div className="wrapper">
-                        <Img fluid={data.avatar.childImageSharp.fluid} alt="Avatar" className="img" />
-                    </div>
-                </StyledPic>
-            </div>
-        </StyledAboutSection>
-    );
+        <StyledPic>
+          <div className="wrapper">
+            <Img fluid={data.avatar.childImageSharp.fluid} alt="Avatar" className="img" />
+          </div>
+        </StyledPic>
+      </div>
+    </StyledAboutSection>
+  );
 };
 
 export default About;
