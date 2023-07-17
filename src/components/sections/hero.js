@@ -29,7 +29,7 @@ const StyledHeroSection = styled.section`
   }
 
   p {
-    margin: 20px 0 0;
+    margin-top: 20px;
     max-width: 500px;
   }
 
