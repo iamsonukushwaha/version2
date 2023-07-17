@@ -1,172 +1,58 @@
 import React, { useEffect, useRef } from 'react';
-import { useStaticQuery, graphql } from 'gatsby';
-import Img from 'gatsby-image';
 import styled from 'styled-components';
-import { srConfig } from '@config';
+import { srConfig, email } from '@config';
 import sr from '@utils/sr';
 
-const StyledAboutSection = styled.section`
-  max-width: 900px;
-
-  .inner {
-    display: grid;
-    grid-template-columns: 3fr 2fr;
-    grid-gap: 50px;
-
-    @media (max-width: 768px) {
-      display: block;
-    }
-  }
-`;
-const StyledText = styled.div`
-  ul.skills-list {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(140px, 200px));
-    padding: 0;
-    margin: 20px 0 0 0;
-    overflow: hidden;
-    list-style: none;
-
-    li {
-      position: relative;
-      margin-bottom: 10px;
-      padding-left: 20px;
-      font-family: var(--font-mono);
-      font-size: var(--fz-xs);
-
-      &:before {
-        content: '▹';
-        position: absolute;
-        left: 0;
-        color: var(--green);
-        font-size: var(--fz-sm);
-        line-height: 12px;
-      }
-    }
-  }
-`;
-const StyledPic = styled.div`
-  position: relative;
-  max-width: 300px;
-
+const StyledContactSection = styled.section`
+  max-width: 600px;
+  margin: 0 auto 100px;
+  text-align: center;
   @media (max-width: 768px) {
-    margin: 50px auto 0;
-    width: 70%;
+    margin: 0 auto 50px;
   }
-
-  .wrapper {
-    ${({ theme }) => theme.mixins.boxShadow};
+  .overline {
     display: block;
-    position: relative;
-    width: 100%;
-    border-radius: var(--border-radius);
-    background-color: var(--green);
-
-    &:hover,
-    &:focus {
-      background: transparent;
-      outline: 0;
-
-      &:after {
-        top: 15px;
-        left: 15px;
-      }
-
-      .img {
-        filter: none;
-        mix-blend-mode: normal;
-      }
-    }
-
-    .img {
-      position: relative;
-      border-radius: var(--border-radius);
-      mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1);
-      transition: var(--transition);
-    }
-
-    &:before,
-    &:after {
-      content: '';
-      display: block;
-      position: absolute;
-      width: 100%;
-      height: 100%;
-      border-radius: var(--border-radius);
-      transition: var(--transition);
-    }
-
+    margin-bottom: 20px;
+    color: var(--green);
+    font-family: var(--font-mono);
+    font-size: var(--fz-md);
+    font-weight: 400;
     &:before {
-      top: 0;
-      left: 0;
-      background-color: var(--navy);
-      mix-blend-mode: screen;
+      bottom: 0;
+      font-size: var(--fz-sm);
     }
-
     &:after {
-      border: 2px solid var(--green);
-      top: 20px;
-      left: 20px;
-      z-index: -1;
+      display: none;
     }
+  }
+  .title {
+    font-size: clamp(40px, 5vw, 60px);
+  }
+  .email-link {
+    ${({ theme }) => theme.mixins.bigButton};
+    margin-top: 50px;
   }
 `;
 
-const About = () => {
-  const data = useStaticQuery(graphql`
-    query {
-      avatar: file(sourceInstanceName: { eq: "images" }, relativePath: { eq: "me.jpg" }) {
-        childImageSharp {
-          fluid(maxWidth: 500, traceSVG: { color: "#64ffda" }) {
-            ...GatsbyImageSharpFluid_withWebp_tracedSVG
-          }
-        }
-      }
-    }
-  `);
-
+const Contact = () => {
   const revealContainer = useRef(null);
-
-  useEffect(() => {
-    sr.reveal(revealContainer.current, srConfig());
-  }, []);
-
-  const skills = ['JavaScript (ES6+)',  'React',  'Java', 'Python'];
+  useEffect(() => sr.reveal(revealContainer.current, srConfig()), []);
 
   return (
-    <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">About Me</h2>
+    <StyledContactSection id="contact" ref={revealContainer}>
+      <h2 className="numbered-heading overline">What’s Next?</h2>
 
-      <div className="inner">
-        <StyledText>
-          <div>
-            <p>Linux Systems Administrator at <a href="https://singlebucks.blogspot.com/2022/06/joined-wipro-limited-as-scholar-trainee.html" target="_blank" rel="noopener noreferrer">Wipro </a> and pursuing M. Tech Computing Systems and Infrastructure student at BITS
-              Pilani.</p>
-            <p>Completed <a href="https://singlebucks.blogspot.com/2023/07/bachelors-degree-in-computer-application.html" target="_blank" rel="noopener noreferrer">BCA </a> from Aryabhata Knowledge University Patna, showcasing a strong foundation in computer science.
-            </p>
-            <p>I have contributed to various projects,
-              which can be found on my <a href="https://github.com/flyingsonu122" target="_blank" rel="noopener noreferrer">GitHub</a> profile.</p>
-            <p>Additionally, I maintain a <a href="https://singlebucks.blogspot.com" target="_blank" rel="noopener noreferrer">personal website</a> where I share my thoughts and experiences:
-            </p>
-            <p>I am open to new opportunities and collaborations, so don't hesitate to connect with me on <a href="https://www.linkedin.com/in/sonukumarkushwaha" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-            </p>
-            <p>Here are a few technologies I've been working with recently:</p>
-          </div>
+      <h2 className="title">Get In Touch</h2>
 
-          <ul className="skills-list">
-            {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
-        </StyledText>
+      <p>
+        My inbox is always open. Whether you have a question or just want to say hello, I'll try my best to get back to you! Feel free to mail me about any relevant job updates.
+      </p>
 
-        <StyledPic>
-          <div className="wrapper">
-            <Img fluid={data.avatar.childImageSharp.fluid} alt="Avatar" className="img" />
-          </div>
-        </StyledPic>
-      </div>
-    </StyledAboutSection>
+      <a className="email-link" href={`mailto:${email}`}>
+        Send Email
+      </a>
+    </StyledContactSection>
   );
 };
 
-export default About;
+export default Contact;
