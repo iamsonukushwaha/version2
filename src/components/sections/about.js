@@ -143,7 +143,8 @@ const About = () => {
                     <div>
                         <p>Linux System Administrator at <a href="https://singlebucks.blogspot.com/2022/06/joined-wipro-limited-as-scholar-trainee.html" target="_blank" rel="noopener noreferrer">Wipro</a> and pursuing M. Tech Computing Systems and Infrastructure student at BITS
                             Pilani.</p>
-                        <p>Completed BCA from Aryabhata Knowledge University Patna, showcasing a strong foundation in computer science.
+                        <p>Completed <a href="https://singlebucks.blogspot.com/2023/07/bachelors-degree-in-computer-application.html" target="_blank" rel="noopener noreferrer">BCA</a> 
+                          from Aryabhata Knowledge University Patna, showcasing a strong foundation in computer science.
                         </p>
                         <p>Passionate about technology and continuously exploring new projects and opportunities.</p>
                         <p>I have a keen interest in open-source development and have contributed to various projects,
