@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Node.js', 'SQL', 'C++', 'Java', 'Python'];
+  const skills = ['JavaScript (ES6+)',  'React',  'Java', 'Python'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -143,8 +143,7 @@ const About = () => {
           <div>
             <p>Linux Systems Administrator at <a href="https://singlebucks.blogspot.com/2022/06/joined-wipro-limited-as-scholar-trainee.html" target="_blank" rel="noopener noreferrer">Wipro </a> and pursuing M. Tech Computing Systems and Infrastructure student at BITS
               Pilani.</p>
-            <p>Completed <a href="https://singlebucks.blogspot.com/2023/07/bachelors-degree-in-computer-application.html" target="_blank" rel="noopener noreferrer">BCA </a>
-              from Aryabhata Knowledge University Patna, showcasing a strong foundation in computer science.
+            <p>Completed <a href="https://singlebucks.blogspot.com/2023/07/bachelors-degree-in-computer-application.html" target="_blank" rel="noopener noreferrer">BCA </a> from Aryabhata Knowledge University Patna, showcasing a strong foundation in computer science.
             </p>
             <p>I have a keen interest in open-source development and have contributed to various projects,
               which can be found on my <a href="https://github.com/flyingsonu122" target="_blank" rel="noopener noreferrer">GitHub</a> profile.</p>
