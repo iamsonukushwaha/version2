@@ -1,8 +1,8 @@
 {
   "name": "version2",
-  "description": "Personal Website V2",
-  "version": "1.0.0",
-  "author": "Sonu kumar kushwaha <flyingsonu736@gmail.com>",
+  "description": "Personal Website",
+  "version": "2.0.0",
+  "author": "Sonu Kumar Kushwaha <flyingsonu736@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/flyingsonu122/version2"
@@ -73,7 +73,6 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.19.0",
     "gatsby-remark-code-titles": "^1.1.0",
-    "gh-pages": "^3.2.3",
     "husky": "^4.2.3",
     "lint-staged": "^10.1.2",
     "prettier": "^2.0.4"
