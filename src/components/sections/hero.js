@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from 'react';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
-import { email } from '@config';
+// import { email } from '@config';
 import { navDelay, loaderDelay } from '@utils';
 
 const StyledHeroSection = styled.section`
   ${({ theme }) => theme.mixins.flexCenter};
   flex-direction: column;
   align-items: flex-start;
-  min-height: 80vh;
+  min-height: 20vh;
 
   h1 {
     margin: 0 0 30px 4px;
@@ -50,16 +50,16 @@ const Hero = () => {
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Sonu Kumar Kushwaha</h2>;
   const three = <h3 className="medium-heading">I tinker things on the web.</h3>;
-  const four = (
-    <p>I'm a computer science student from India, born in Gopalganj, in the state of Bihar.</p>
-  );
-  const five = (
-    <a href={`mailto:${email}`} className="email-link">
-      Get In Touch
-    </a>
-  );
+  // const four = (
+  //   <p>I'm a computer science student from India, born in Gopalganj, in the state of Bihar.</p>
+  // );
+  // const five = (
+  //   <a href={`mailto:${email}`} className="email-link">
+  //     Get In Touch
+  //   </a>
+  // );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three];
 
   return (
     <StyledHeroSection>

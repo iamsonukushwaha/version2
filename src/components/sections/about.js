@@ -142,6 +142,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
+              I'm a computer science student from India, born in Gopalganj, in the state of Bihar.
+            </p>
+            <p>
               Linux System Administrator at{' '}
               <a
                 href="https://singlebucks.blogspot.com/2022/06/joined-wipro-limited-as-scholar-trainee.html"
@@ -150,15 +153,7 @@ const About = () => {
               >
                 Wipro{' '}
               </a>{' '}
-              and pursuing{' '}
-              <a
-                href="https://singlebucks.blogspot.com/2023/06/education.html"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                M . Tech
-              </a>{' '}
-              in Computing Systems and Infrastructure at{' '}
+              and pursuing M . Tech in Computing Systems and Infrastructure at{' '}
               <a
                 href="https://singlebucks.blogspot.com/2023/06/education.html"
                 target="_blank"
