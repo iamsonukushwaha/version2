@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sonukushwaha.com/sitemap-index.xml
+Host: https://sonukushwaha.com
