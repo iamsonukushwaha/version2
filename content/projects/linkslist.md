@@ -1,8 +1,8 @@
 ---
 date: '2020-11-22'
 title: 'Links List'
-github: 'https://github.com/flyingsonu122/links-list'
-external: 'https://flyingsonu122.github.io/links-list'
+github: 'https://github.com/iamsonukushwaha/links-list'
+external: 'https://iamsonukushwaha.github.io/links-list'
 tech:
   - Express
   - json-server

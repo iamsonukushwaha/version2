@@ -1,8 +1,7 @@
 ---
 date: '2020-11-15'
 title: 'Portfolio Website'
-github: 'https://github.com/flyingsonu122/v1'
-external: 'https://flyingsonu122.github.io/v1'
+github: 'https://github.com/iamsonukushwaha/'
 tech:
   - JavaScript
 company: ''

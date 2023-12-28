@@ -2,7 +2,7 @@
 date: '5'
 title: 'Admission Management System '
 cover: './ggps.png'
-github: 'https://github.com/flyingsonu122/ggpsarwal'
+github: 'https://github.com/iamsonukushwaha/ggpsarwal'
 external: 'https://iamsonukushwaha.github.io/ggpsarwal'
 tech:
   - Nodejs

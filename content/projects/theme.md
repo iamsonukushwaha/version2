@@ -1,7 +1,7 @@
 ---
 date: '2021-01-27'
-title: 'flyingsonu dark theme'
-github: 'https://github.com/flyingsonu122/flyingsonu-theme'
+title: 'vs code dark theme'
+github: 'https://github.com/iamsonukushwaha/flyingsonu-theme'
 external: 'https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark'
 tech:
   - color-theme

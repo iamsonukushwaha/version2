@@ -1,8 +1,8 @@
 ---
 date: '2020-09-21'
 title: 'Quotes'
-github: 'https://github.com/flyingsonu122/quote-of-the-day'
-external: 'https://flyingsonu122.github.io/quote-of-the-day/'
+github: 'https://github.com/iamsonukushwaha/quote-of-the-day'
+external: 'https://iamsonukushwaha.github.io/quote-of-the-day/'
 tech:
   - API
   - HTML

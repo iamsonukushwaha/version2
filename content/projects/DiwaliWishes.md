@@ -1,7 +1,7 @@
 ---
 date: '2020-11-15'
 title: 'Diwali Wishes Web App'
-github: 'https://github.com/flyingsonu122/diwali-wishes'
+github: 'https://github.com/iamsonukushwaha/diwali-wishes'
 external: 'https://iamsonukushwaha.github.io/diwali-wishes/'
 tech:
   - Github

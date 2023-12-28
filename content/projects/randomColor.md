@@ -1,8 +1,8 @@
 ---
 date: '2020-10-15'
 title: 'Random Color Generator'
-github: 'https://github.com/flyingsonu122/random-color'
-external: 'https://flyingsonu122.github.io/random-color/'
+github: 'https://github.com/iamsonukushwaha/random-color'
+external: 'https://iamsonukushwaha.github.io/random-color/'
 tech:
   - Bootstrap
   - JavaScript

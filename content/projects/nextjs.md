@@ -1,7 +1,7 @@
 ---
 date: '2020-11-15'
 title: 'Nextjs Blog'
-github: 'https://github.com/flyingsonu122/nextjs-blog'
+github: 'https://github.com/iamsonukushwaha/nextjs-blog'
 external: 'https://singlebucks.blogspot.com'
 tech:
   - Nextjs

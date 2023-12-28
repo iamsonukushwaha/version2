@@ -1,8 +1,8 @@
 ---
 date: '2020-12-01'
-title: 'Feednami'
-github: 'https://github.com/flyingsonu122/feednami'
-external: 'https://flyingsonu122.github.io/feednami/'
+title: 'News App'
+github: 'https://github.com/iamsonukushwaha/feednami'
+external: 'https://iamsonukushwaha.github.io/feednami/'
 tech:
   - HTML
   - Bootstrap

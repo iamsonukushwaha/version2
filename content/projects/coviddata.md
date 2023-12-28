@@ -1,8 +1,8 @@
 ---
 date: '2020-11-02'
 title: 'Covid Data'
-github: 'https://github.com/flyingsonu122/covidData'
-external: 'https://flyingsonu122.github.io/covidData/'
+github: 'https://github.com/iamsonukushwaha/covidData'
+external: 'https://iamsonukushwaha.github.io/covidData/'
 tech:
   - Bootstrap
   - API

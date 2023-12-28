@@ -1,8 +1,8 @@
 ---
 date: '2020-11-01'
 title: 'Minimal Blog'
-github: 'https://github.com/flyingsonu122/minimalBlog'
-external: 'https://blog-minimal.netlify.app/'
+github: 'https://github.com/iamsonukushwaha/minimalBlog'
+external: 'https://blog-minimal.netlify.app/about'
 tech:
   - Netlify
   - Github
@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-Personal corner of the web.
+Sonu's personal corner on the web.

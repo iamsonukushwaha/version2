@@ -1,8 +1,8 @@
 ---
 date: '2021-02-25'
-title: 'Happy Holi'
-github: 'https://github.com/flyingsonu122/happyHoli'
-external: 'https://flyingsonu122.github.io/happyHoli'
+title: 'Holi Wishes App'
+github: 'https://github.com/iamsonukushwaha/happyHoli'
+external: 'https://iamsonukushwaha.github.io/happyHoli'
 tech:
   - HTML
   - Bootstrap
