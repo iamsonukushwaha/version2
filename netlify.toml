@@ -1,3 +1,0 @@
-[[build.environment]]
-  name = "NODE_VERSION"
-  value = "10.13.0"
