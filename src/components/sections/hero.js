@@ -51,9 +51,7 @@ const Hero = () => {
   const two = <h2 className="big-heading">Sonu Kumar Kushwaha</h2>;
   const three = <h3 className="medium-heading">I tinker things on the web.</h3>;
   const four = (
-    <p>
-      I'm a computer science student, building websites, applications, and everything in between.
-    </p>
+    <p>I'm a computer science student from India, born in Gopalganj, in the state of Bihar.</p>
   );
   const five = (
     <a href={`mailto:${email}`} className="email-link">
@@ -61,7 +59,7 @@ const Hero = () => {
     </a>
   );
 
-  const items = [one, two, three, four];
+  const items = [one, two, three, four, five];
 
   return (
     <StyledHeroSection>
