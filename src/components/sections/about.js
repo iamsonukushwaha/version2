@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'Java', 'Python'];
+  const skills = ['JavaScript', 'React', 'Java', 'Python'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -190,7 +190,7 @@ const About = () => {
               <a href="https://singlebucks.blogspot.com" target="_blank" rel="noopener noreferrer">
                 personal website
               </a>{' '}
-              where I share my thoughts and experiences:
+              where I share my thoughts and experiences.
             </p>
             <p>
               I am open to new opportunities and collaborations, so don't hesitate to connect with
