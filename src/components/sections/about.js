@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript', 'React', 'Java', 'Python'];
+  const skills = ['JavaScript', 'Linux', 'Java', 'Python'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -147,13 +147,13 @@ const About = () => {
             <p>
               Linux System Administrator at{' '}
               <a
-                href="https://singlebucks.blogspot.com/2022/06/joined-wipro-limited-as-scholar-trainee.html"
+                href="https://singlebucks.blogspot.com/2024/01/wipro.html"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 Wipro{' '}
               </a>{' '}
-              and pursuing M . Tech in Computing Systems and Infrastructure at{' '}
+              and pursuing M.Tech in Computing Systems and Infrastructure at{' '}
               <a
                 href="https://singlebucks.blogspot.com/2023/06/education.html"
                 target="_blank"
@@ -187,7 +187,7 @@ const About = () => {
             </p>
             <p>
               Additionally, I maintain a{' '}
-              <a href="https://singlebucks.blogspot.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://singlebucks.blogspot.com/p/sonu.html" target="_blank" rel="noopener noreferrer">
                 personal website
               </a>{' '}
               where I share my thoughts and experiences.
