@@ -2,7 +2,7 @@
 
 <br/><br/><br/>
 
-**https://sonukushwaha.com**
+**https://sonukushwaha.vercel.app**
 
 <br/><br/>
 
