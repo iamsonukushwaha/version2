@@ -142,10 +142,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I'm a computer science student from India, born in Gopalganj, in the state of Bihar.
+              I'm a computer science enthusiast from India, born in Gopalganj, in the state of Bihar.
             </p>
             <p>
-              Linux System Administrator at{' '}
+              Currently, I work as a Linux System Administrator at{' '}
               <a
                 href="https://singlebucks.blogspot.com/2024/01/wipro.html"
                 target="_blank"
@@ -153,7 +153,7 @@ const About = () => {
               >
                 Wipro{' '}
               </a>{' '}
-              and pursuing M.Tech in Computing Systems and Infrastructure at{' '}
+              and hold an M.Tech in Computing Systems and Infrastructure from{' '}
               <a
                 href="https://singlebucks.blogspot.com/2023/06/education.html"
                 target="_blank"
@@ -171,11 +171,10 @@ const About = () => {
               >
                 BCA{' '}
               </a>{' '}
-              from Aryabhata Knowledge University Patna, showcasing a strong foundation in computer
-              science.
+              from Aryabhata Knowledge University Patna.
             </p>
             <p>
-              I have contributed to various projects, which can be found on my{' '}
+              I enjoy building technical projects, sharing them on my{' '}
               <a
                 href="https://github.com/iamsonukushwaha"
                 target="_blank"
@@ -183,18 +182,16 @@ const About = () => {
               >
                 GitHub
               </a>{' '}
-              profile.
+              profile, 
             </p>
             <p>
-              Additionally, I maintain a{' '}
+              and writing about my experiences and learnings on my{' '}
               <a href="https://singlebucks.blogspot.com/p/sonu.html" target="_blank" rel="noopener noreferrer">
                 personal website
               </a>{' '}
-              where I share my thoughts and experiences.
             </p>
             <p>
-              I am open to new opportunities and collaborations, so don't hesitate to connect with
-              me on{' '}
+              I’m always open to new opportunities, collaborations, and professional connections on{' '}
               <a
                 href="https://www.linkedin.com/in/sonukumarkushwaha"
                 target="_blank"
