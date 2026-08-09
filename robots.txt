@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://sonukushwaha.com/sitemap-index.xml
-Host: https://sonukushwaha.com
+Sitemap: https://sonukushwaha.vercel.app/sitemap-index.xml
+Host: https://sonukushwaha.vercel.app
