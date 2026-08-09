@@ -15,6 +15,8 @@
 1. Install the Gatsby CLI
 
    ```sh
+   source "$HOME/.nvm/nvm.sh" && nvm use 16 && npm start
+   source "$HOME/.nvm/nvm.sh" && nvm use 16 && npm run deploy
    npm install -g gatsby-cli
    ```
 
