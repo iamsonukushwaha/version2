@@ -156,7 +156,7 @@ const About = () => {
               </a>{' '}
               and hold an{' '}
               <a
-                href="https://singlebucks.blogspot.com/2023/06/education.html"
+                href="https://singlebucks.blogspot.com/p/bits-pilani.html"
                 target="_blank"
                 rel="noopener noreferrer"
               >
