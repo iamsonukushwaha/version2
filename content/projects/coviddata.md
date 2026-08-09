@@ -13,4 +13,4 @@ company: ''
 showInProjects: true
 ---
 
-Here you can see Live Covid-19 Data and statistics about every country of the world using API.
+View live COVID-19 data and statistics for countries worldwide using an API.

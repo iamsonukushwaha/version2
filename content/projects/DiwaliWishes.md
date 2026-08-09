@@ -13,4 +13,4 @@ company: ''
 showInProjects: true
 ---
 
-Wishing you all Happy Diwali with best wishes.
+Wishing you all a very Happy Diwali! May this festival of lights bring happiness, prosperity, and success to everyone.

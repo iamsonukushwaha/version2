@@ -11,5 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-It's a Birthday Countdown mobile / web app which countdown the next Birthday after
-providing next Birthday date.
+A mobile/web app that counts down to the next birthday based on the entered date.

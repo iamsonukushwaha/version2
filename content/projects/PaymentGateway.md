@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-A simple payment gateway integration website using Razorpay.
+A simple payment gateway integration website powered by Razorpay.

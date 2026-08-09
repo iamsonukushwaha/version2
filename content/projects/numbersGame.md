@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-💡 A simple NPM Package which returns Best Number Game. Play with It and stay motivated! ✌️ 🌸
+💡 A simple NPM package featuring an engaging number game to keep you entertained and motivated! ✌️🌸

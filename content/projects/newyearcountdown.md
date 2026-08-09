@@ -10,6 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-New Year Countdown Browser Extension.
-
-It shows remaining time for the next New Year.
+A browser extension that displays a live countdown to the upcoming New Year.

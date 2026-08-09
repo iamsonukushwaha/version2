@@ -11,4 +11,4 @@ company: ''
 showInProjects: false
 ---
 
-You can play a very amazing guessing game on this wonderful website.
+An exciting guessing game where you can test your skills, challenge your instincts, and have fun.

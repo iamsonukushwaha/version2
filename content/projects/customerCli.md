@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-Command line interface for managing customers. Uses Mongoose, Commander.js and Inquirer.js
+A command-line customer management app built with Mongoose, Commander.js, and Inquirer.js.

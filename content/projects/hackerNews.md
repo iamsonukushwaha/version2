@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-Best place to see technical News, here you can find all latest news presented in the best manner and is fetched using api every hour.
+A technical news platform featuring the latest tech updates, fetched via API and refreshed every hour.
