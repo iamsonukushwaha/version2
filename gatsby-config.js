@@ -4,7 +4,7 @@ module.exports = {
     siteMetadata: {
         title: 'Sonu Kumar Kushwaha',
         description: 'Sonu Kumar Kushwaha – A collection of everything that goes in my head',
-        siteUrl: 'https://sonukushwaha.com', // No trailing slash allowed!
+        siteUrl: 'https://sonukushwaha.vercel.app', // No trailing slash allowed!
         image: '/og.png', // Path to your image you placed in the 'static' folder
         twitterUsername: '@iamsonukushwaha',
     },
