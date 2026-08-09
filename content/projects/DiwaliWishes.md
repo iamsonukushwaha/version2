@@ -1,5 +1,5 @@
 ---
-date: '2020-11-15'
+date: '2025-11-15'
 title: 'Diwali Wishes Web App'
 github: 'https://github.com/iamsonukushwaha/diwali-wishes'
 external: 'https://iamsonukushwaha.github.io/diwali-wishes/'

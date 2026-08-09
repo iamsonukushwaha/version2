@@ -3,7 +3,7 @@ date: '6'
 title: 'Tarana - Music Player'
 cover: './tarana.png'
 github: 'https://github.com/iamsonukushwaha/tarana'
-external: 'https://singlebucks.blogspot.com/2021/08/music-player.html'
+external: 'https://iamsonukushwaha.github.io/tarana/'
 tech:
   - JavaScript
   - HTML
@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-Tarana is a music player that offers features such as shuffle, song sharing, themed playlists, a variety of genres, search, and filters.
+Tarana is a feature-rich music player with shuffle, song sharing, themed playlists, multiple genres, search, and filtering options.

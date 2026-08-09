@@ -1,5 +1,5 @@
 ---
-date: '2021-01-01'
+date: '2025-01-01'
 title: 'Hacker News'
 github: 'https://github.com/iamsonukushwaha/hacker_news'
 external: 'https://iamsonukushwaha.github.io/hacker_news/'

@@ -1,5 +1,5 @@
 ---
-date: '2021-01-11'
+date: '2025-01-11'
 title: 'Numbers Game'
 github: 'https://github.com/iamsonukushwaha/number_game'
 external: 'https://www.npmjs.com/package/numbers-game'

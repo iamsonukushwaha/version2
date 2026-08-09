@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-Our School Website & Admission Management System powered by Firebase offers a seamless user experience, including sign up, login, payment integration, student details, and alumni management, all in one comprehensive platform.
+A comprehensive school website and admission management system powered by Firebase, featuring authentication, payment integration, student management, and alumni management in one seamless platform.

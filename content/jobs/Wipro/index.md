@@ -3,7 +3,7 @@ date: '2022-04-11'
 title: 'Linux Adminstrator at '
 company: 'Wipro Technologies'
 location: 'Pune, India'
-range: 'April 2022 - Present'
+range: '11 April 2022 - Present'
 url: 'https://singlebucks.blogspot.com/p/scholar-trainee-at-wipro.html'
 ---
 
