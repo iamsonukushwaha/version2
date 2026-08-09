@@ -142,36 +142,45 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I'm a computer science enthusiast from India, born in Gopalganj, in the state of Bihar.
+              I'm a computer science enthusiast from India, born in Gopalganj, in the state of
+              Bihar.
             </p>
             <p>
-              Currently, I work as a Linux System Administrator at{' '}
+              I currently work as a Linux System Administrator at{' '}
               <a
                 href="https://singlebucks.blogspot.com/2024/01/wipro.html"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Wipro{' '}
+                Wipro
               </a>{' '}
-              and hold an M.Tech in Computing Systems and Infrastructure from{' '}
+              and hold an{' '}
+              <a
+                href="https://singlebucks.blogspot.com/2023/06/education.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                M.Tech
+              </a>{' '}
+              in Computing Systems and Infrastructure from{' '}
               <a
                 href="https://singlebucks.blogspot.com/2023/06/education.html"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 BITS Pilani
-              </a>{' '}
+              </a>
             </p>
             <p>
-              Completed{' '}
+              Completed my{' '}
               <a
                 href="https://singlebucks.blogspot.com/2023/07/bachelors-degree-in-computer-application.html"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                BCA{' '}
+                BCA
               </a>{' '}
-              from Aryabhata Knowledge University Patna.
+              from Aryabhata Knowledge University, Patna.
             </p>
             <p>
               I enjoy building technical projects, sharing them on my{' '}
@@ -182,11 +191,12 @@ const About = () => {
               >
                 GitHub
               </a>{' '}
-              profile, 
-            </p>
-            <p>
               and writing about my experiences and learnings on my{' '}
-              <a href="https://singlebucks.blogspot.com/p/sonu.html" target="_blank" rel="noopener noreferrer">
+              <a
+                href="https://singlebucks.blogspot.com/p/sonu.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 personal website
               </a>{' '}
             </p>
