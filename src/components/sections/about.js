@@ -171,15 +171,15 @@ const About = () => {
               </a>
             </p>
             <p>
-              Bachelor of Computer Applications{' '}
+              Bachelor of Computer Applications ({' '}
               <a
                 href="https://singlebucks.blogspot.com/2023/07/bachelors-degree-in-computer-application.html"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                (BCA)
+                BCA
               </a>{' '}
-              from L. N. Mishra Institute, Patna (Affiliated to Aryabhatta Knowledge University).
+              ) from L. N. Mishra Institute, Patna (Affiliated to Aryabhatta Knowledge University).
             </p>
             <p>
               I enjoy building technical projects, sharing them on my{' '}
