@@ -142,11 +142,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I'm a computer science enthusiast from India, born in Gopalganj, in the state of
-              Bihar.
-            </p>
-            <p>
-              I currently work as a Linux System Administrator at{' '}
+              I'm Sonu Kumar Kushwaha, a Linux System Administrator at{' '}
               <a
                 href="https://singlebucks.blogspot.com/2024/01/wipro.html"
                 target="_blank"
@@ -154,7 +150,10 @@ const About = () => {
               >
                 Wipro
               </a>{' '}
-              and hold an{' '}
+              and a technology enthusiast from Gopalganj, Bihar, India.
+            </p>
+            <p>
+              I hold an{' '}
               <a
                 href="https://singlebucks.blogspot.com/p/bits-pilani.html"
                 target="_blank"
@@ -172,15 +171,15 @@ const About = () => {
               </a>
             </p>
             <p>
-              Completed my{' '}
+              Bachelor of Computer Applications{' '}
               <a
                 href="https://singlebucks.blogspot.com/2023/07/bachelors-degree-in-computer-application.html"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                BCA
+                (BCA)
               </a>{' '}
-              from Aryabhata Knowledge University, Patna.
+              from L. N. Mishra Institute, Patna (Affiliated to Aryabhatta Knowledge University).
             </p>
             <p>
               I enjoy building technical projects, sharing them on my{' '}
