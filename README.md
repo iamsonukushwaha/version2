@@ -12,42 +12,82 @@
 
 ### 🛠 Installation & Set Up
 
-1. Install the Gatsby CLI
+1. Use the compatible Node version for this Gatsby project.
 
    ```sh
-   source "$HOME/.nvm/nvm.sh" && nvm use 16 && npm start
-   source "$HOME/.nvm/nvm.sh" && nvm use 16 && npm run deploy
-   npm install -g gatsby-cli
+   source /usr/local/share/nvm/nvm.sh
+   nvm install 16
+   nvm use 16
+   node -v
+   npm -v
    ```
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+2. Install dependencies.
 
    ```sh
-   nvm install
+   npm install --legacy-peer-deps --no-fund --no-audit
    ```
 
-3. Install dependencies
+3. Start the development server.
 
    ```sh
-   yarn
+   source /usr/local/share/nvm/nvm.sh
+   nvm use 16
+   npm run develop -- --host 0.0.0.0
    ```
 
-4. Start the development server
+4. If you want the default npm start script:
 
    ```sh
+   source /usr/local/share/nvm/nvm.sh
+   nvm use 16
    npm start
    ```
 
 ### 🚀 Building and Running for Production
 
-1. Generate a full static production build
+1. Generate a full static production build.
 
    ```sh
+   source /usr/local/share/nvm/nvm.sh
+   nvm use 16
    npm run build
    ```
 
-1. Preview the site as it will appear once deployed
+2. Preview the built site locally.
 
    ```sh
+   source /usr/local/share/nvm/nvm.sh
+   nvm use 16
    npm run serve
    ```
+
+### 🔁 Commands to Run Next Time After Modifying Anything
+
+Use these in order whenever you change code or content:
+
+```sh
+source /usr/local/share/nvm/nvm.sh
+nvm use 16
+npm install --legacy-peer-deps --no-fund --no-audit
+npm run develop -- --host 0.0.0.0
+```
+
+If you want to validate a production build before publishing:
+
+```sh
+source /usr/local/share/nvm/nvm.sh
+nvm use 16
+npm run build
+npm run serve
+```
+
+If you want to deploy to GitHub Pages:
+
+```sh
+source /usr/local/share/nvm/nvm.sh
+nvm use 16
+npm run deploy
+```
+
+> Note: This project currently requires Node 16. Using a newer Node version can cause Gatsby dependency and runtime issues during development/build.
