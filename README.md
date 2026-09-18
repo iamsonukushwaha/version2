@@ -6,10 +6,6 @@
 
 <br/><br/>
 
-### Watch Video Demo on **[YouTube](https://youtu.be/RUZOTBTuwfk)**
-
-<br/><br/><br/>
-
 ### 🛠 Installation & Set Up
 
 1. Use the compatible Node version for this Gatsby project.
